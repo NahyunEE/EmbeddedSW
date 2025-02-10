@@ -1,0 +1,3 @@
+﻿  FFT.cpp
+C:\workspace\EmbeddedSW\DSP\FFT\Project1\Project1\FFT.cpp(40,1): warning C4717: 'FFT': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  Project1.vcxproj -> C:\workspace\EmbeddedSW\DSP\FFT\Project1\x64\Debug\Project1.exe
